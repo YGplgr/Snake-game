@@ -91,3 +91,9 @@ You can move the snake with the arrow keys or `W` / `A` / `S` / `D`.
 
 ## High-Score
 The highest score is saved locally in the browser's _local storage_, in a `snakeHighScore` field.
+<h1 align="center">
+  <img alt="cgapp logo" src="https://raw.githubusercontent.com/create-go-app/cli/master/.github/images/cgapp_logo%402x.png" width="224px"/><br/>
+  Create Go App CLI
+    <img alt="cgapp logo" src="https://raw.githubusercontent.com/create-go-app/cli/master/.github/images/cgapp_logo%402x.png" width="224px"/><br/>
+  Create Go App CLI
+</h1>
